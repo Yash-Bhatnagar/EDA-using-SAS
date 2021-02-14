@@ -1,0 +1,21 @@
+Inferences/Insights from the EDA of data:
+
+1. The distribution of customers across product and policy status:
+It seems that when analysis is done holistically the policy named Term Saath and of status category: Lapsed has the lowest distribution, owing to 132(2.45%) of total count; meanwhile Term Suracha—Lapsed contributes most to the distribution having 170(3.16%) of total entries.
+But the difference between both is not that much!
+When the same data is analysed on the categorically on the basis of policy status: The Inforced category contributes the least (1767)(32.85%) and policies whose payment is due contributes the most (1818)(33.80%); this means that there are majority of policy holders whose payment is due, but still there is no such phenomenal difference in the data.
+If this data is analysed on the basis of product: The Term Protection contributes the least (421) and Term Kishan contributes the most (478), as seen from the data all the products have almost similar distributions.
+The distribution of customers across product and policy status is almost similar in every segment and no major outliers are observed in the data.
+
+2. Average annual premium for different payment mode:
+We find an unusual trend here, as it turns out on an average people who pay Annually have to pay the least amount (18.5k approx.) meanwhile a whopping difference can be found in the case of people who pay Monthly (roughly amounting to 30k a year). Whereas people who pay Quarterly and Semi Annually pay almost a similar amount.
+So, as it turns out, if someone can’t afford to pay a huge amount altogether (i.e. paying for policy annually) then they should opt for Quarterly payments, as it will prove to be the most economical method of payment for the person rather than going for monthly instalments of the same policy.
+
+3. Persistency score, no fraud score and tenure of customers across product and policy status:
+On an average the minimum tenure was found to be of Term Jawaan—Lapsed(15 months and 24 days) and maximum of Return Saath—Payment due(19 months and 22 days).
+Similarly, in case of Persistency score, the least persistent was Return Saath—Payment due(79.34%) and the most persistent was Term Jawaan—Lapsed(82.78%), which supports our previous analysis based on tenure.
+For no fraud score, the minimum was found to be of Term Saath—payment Due(80.9%) and the best policy with least frauds was: return Suracha—Inforced(84.25%)
+
+4. Average age of customer across acquisition channel and policy status:
+As observed, the average age of customer is almost same for all channels and policy status with a range of approx. 1 years.
+This also helps us understand that on an average the age of customer opting for the policy is 38-39 years old, so policy can be framed keeping this in mind, to maximize the policy sales.
