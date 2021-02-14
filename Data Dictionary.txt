@@ -1,0 +1,23 @@
+Data Dictionary:
+
+Data1:
+AgentId -- Unique ID related with agent
+Persistency_Score -- If a agent sell 100 policy in last year and out of them 80 are inforced, then persistency score is 0.80
+NoFraud_Score -- If a agent sell 100 policy in last year and out of them 5 are fraud, then no fraud score is 0.95
+
+Data2, Data3 and Data4:
+Hhid -- Household number assign against policy number
+Custid -- Customer who have taken policy
+proposal_num -- Proposal number of the policy
+policy_num -- Policy num (Unique ID for our case study)
+Dob -- Date of birth of the policy holder
+policy_status -- Current policy Status
+Premium -- Premium amount paid by policy holder on every due date. It is not annual premium.
+acq_chnl -- Acquisition channel of policy
+product_lvl1 -- First level segment of the product name
+product_lvl2 -- Actual product name with first four letter as a code of product
+Agented -- Agent who sell the policy to the customer
+payment_mode -- Payment mode for policy, use this information to calculate annual premium
+policy_date -- Date of the policy login in the system
+
+Note: The data contains dummy values and shouldn't be linked to real world problems!
